@@ -1,0 +1,7 @@
+mkdir dp1
+cd dp1
+ls
+cd github-classroom/dp1
+cd github-classroom/dp1/
+git clone https://github.com/SMmest3r/dp1.git
+echo $HISTFILE
